@@ -1,0 +1,7 @@
+vllm
+transformers
+datasets
+openai
+accelerate
+joblib
+scikit-learn
